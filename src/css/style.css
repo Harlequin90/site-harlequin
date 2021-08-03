@@ -1,0 +1,30 @@
+body{
+	background-color: #23283b;
+}
+.edit1{
+	font: Nome;
+	color: white;
+    margin-left: 35%;
+}
+.edit2{
+	font: Nome;
+	color: white;
+    margin-left: 36%;
+    margin-top: 23px;
+}
+.github{
+	width: 60px;
+	margin-top: 550px;
+}
+.direitosautorais{
+	color: white;
+    margin-left: 125px;
+    margin-top: -29px;
+}
+.direitosautorais-a:hover{
+	color: blue;
+}
+.discordicon{
+	width: 60px;
+	margin-top: 550px;
+}
